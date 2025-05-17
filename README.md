@@ -4,22 +4,22 @@
 
 Taskyfi is a modern, real-time project management application that combines the power of Kanban boards with automated workflows and team collaboration features. Built with a focus on real-time updates and seamless team coordination, it offers a comprehensive solution for managing projects of any size.
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication & Authorization
+### Authentication & Authorization
 - Secure user authentication system
 - Role-based access control
 - Session management
 - Password encryption and security measures
 
-### 📋 Project Management
+###  Project Management
 - Create and manage multiple projects
 - Invite team members to projects
 - Real-time project updates
 - Project activity timeline
 - Custom project roles and permissions
 
-### 📊 Kanban Board
+### Kanban Board
 - Drag-and-drop task management
 - Customizable task columns
 - Real-time task updates
@@ -27,7 +27,7 @@ Taskyfi is a modern, real-time project management application that combines the 
 - Task priority levels
 - Due date tracking
 
-### 🤖 Automation Engine
+### Automation Engine
 - Custom workflow automation
 - Trigger-based actions
 - Email notifications
@@ -35,21 +35,21 @@ Taskyfi is a modern, real-time project management application that combines the 
 - Due date reminders
 - Priority-based workflows
 
-### 💬 Real-Time Communication
+### Real-Time Communication
 - In-app notifications
 - Real-time task comments
 - Team chat functionality
 - @mentions and user tagging
 - Email notifications for important updates
 
-### 🔔 Notification System
+### Notification System
 - In-app notifications
 - Email notifications
 - Custom notification preferences
 - Real-time alerts
 - Notification history
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -117,7 +117,13 @@ The application will be available at:
 - Backend API: http://localhost:5000
 - WebSocket: ws://localhost:5000
 
-## 📸 Screenshots
+## Screenshots
+![Screenshot From 2025-05-17 05-55-00](https://github.com/user-attachments/assets/6c67d7cf-a4ae-48ba-914e-d3a37390e2d2)
+
+![Screenshot From 2025-05-17 05-55-17 (Copy)](https://github.com/user-attachments/assets/487b4441-413d-4ba9-8cdd-123c6cd28291)\
+
+![Screenshot From 2025-05-17 05-55-33](https://github.com/user-attachments/assets/98bf791c-2926-4b67-a4b8-0c5587d9d949)
+
 
 ### Dashboard
 [Insert Dashboard Screenshot]
