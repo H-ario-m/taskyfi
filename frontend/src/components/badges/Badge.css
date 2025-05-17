@@ -1,0 +1,77 @@
+.badge {
+    display: inline-block;
+    font-weight: 500;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s ease;
+    animation: badgeFadeIn 0.5s ease-in-out;
+}
+
+.badge:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-md);
+}
+
+.badge-small {
+    padding: 4px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+.badge-medium {
+    padding: 5px 12px;
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+.badge-large {
+    padding: 6px 14px;
+    font-size: 14px;
+    border-radius: 20px;
+}
+
+.badge-completed {
+    background-color: #98fb98;
+    color: #1a4731;
+    border: 1px solid #86efac;
+}
+
+.badge-ontime {
+    background-color: #a3c5ff;
+    color: #1e3a8a;
+    border: 1px solid #6b9fff;
+}
+
+.badge-star {
+    background-color: #ffeb99;
+    color: #713f12;
+    border: 1px solid #ffd700;
+}
+
+.badge-important {
+    background-color: #ffd6e6;
+    color: #831843;
+    border: 1px solid #ffb6c1;
+}
+
+.badge-review {
+    background-color: #e9d5ff;
+    color: #581c87;
+    border: 1px solid #d8b4fe;
+}
+
+.badge-default {
+    background-color: #f1f5f9;
+    color: #334155;
+    border: 1px solid #cbd5e1;
+}
+
+@keyframes badgeFadeIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
